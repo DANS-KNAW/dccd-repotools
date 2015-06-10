@@ -1,0 +1,262 @@
+# should fail!
+#wrong_id
+#
+
+
+#####################################
+# all on the DCCD VM
+
+#1
+#   pid                dccd:1091
+#   title              Minimal with data testX
+#   description        
+
+#2
+#dccd:1191
+#   title              Kasteel Woerden
+#   description        
+
+#3
+dccd:1052
+#   title              Test_Project_Well
+#   description        Testen…
+
+#4
+dccd:1282
+#   title              Minimal with data, with tuscon valuefile and two associated files
+#   description        
+
+#5
+dccd:1121
+#   title              Minimaal met gegevens in het Nederlands
+#   description        
+
+#6
+dccd:1633
+#   title              Voorburg 1988
+#   description        
+
+#7
+dccd:1261
+#   title              Minimal with tuscon data
+#   description        
+
+#8
+dccd:1653
+#   title              dccd-webapp-testdata-minimal-v_1
+#   description        
+
+#9
+dccd:1663
+#   title              dccd-webapp-testdata-minimal-v_1
+#   description        
+
+#10
+dccd:1321
+#   title              dccd-webapp-testdata-minimal-v_1
+#   description        
+
+#11
+dccd:1673
+#   title              dccd-webapp-testdata-minimal-v_1
+#   description        
+
+#12
+dccd:1683
+#   title              dccd-webapp-testdata-minimal-v_1
+#   description        
+
+#13
+dccd:1723
+#   title              dccd-webapp-testdata-minimal-v_1
+#   description        
+
+#14
+dccd:1816
+#   title           #   title0
+#   description     #   description0
+
+#15
+dccd:1818
+#   title           #   title2
+#   description     #   description0
+
+#16
+dccd:1817
+#   title           #   title2
+#   description     #   description0
+
+#17
+dccd:1837
+#   title              Minimal with heidelberg data
+#   description        
+
+#18
+dccd:1843
+#   title              's-Hertogenbosch Kolperstraat 23/25
+#   description        
+
+#19
+dccd:1813
+#   title              Minimal with heidelberg data
+#   description        
+
+#20
+dccd:1602
+#   title              dccd-webapp-testdata-maximal-v_1
+#   description     #   description
+
+#21
+dccd:1011
+#   title              Test_Project_Kerk_III
+#   description        Testen..
+
+#22
+dccd:1863
+#   title              Minimal with data and Empty Values
+#   description        
+
+#23
+dccd:1873
+#   title              Minimal with heidelberg data Xtra
+#   description        
+
+#24
+dccd:1884
+#   title              dccd-webapp-testdata-maximal-v_1-derived series with NO values
+#   description     #   description
+
+#25
+dccd:1893
+#   title              Minimal with heidelberg data
+#   description        
+
+#26
+dccd:1904
+#   title              Western Australian Museum
+#   description        
+
+#27
+dccd:1933
+#   title              Kasteel Ter Worm Heerlen
+#   description        
+
+#28
+dccd:1923
+#   title              Kasteel Rechteren
+#   description        
+
+#29
+dccd:1271
+#   title              Slufter scheepswrakken
+#   description        
+
+#30
+dccd:1839
+#   title              Utrecht Pauwstraat e.a.
+#   description        
+
+#31
+dccd:801
+#   title              V1.2.1 Example Western Australian Museum
+#   description        
+
+#32
+dccd:994
+#   title              Test Church
+#   description        
+
+#33
+dccd:1943
+#   title              dccd-webapp-testdata-minimal-v_2 at Gouda
+#   description        
+
+#34
+dccd:1944
+#   title              dccd-webapp-testdata-minimal-v_2 at Amsterdam
+#   description        
+
+#35
+dccd:1693
+#   title              dccd-webapp-testdata-minimal-v_1 UNARCHIVED
+#   description        
+
+#36
+dccd:1703
+#   title              Year Search Test 1
+#   description        
+
+#37
+dccd:2363
+#   title              Year Search Test 2
+#   description        
+
+#38
+dccd:2547
+#   title              Velsen I
+#   description        
+
+#39
+dccd:2548
+#   title              dccd-webapp-testdata-minimal-v_1
+#   description        
+
+#40
+dccd:2544
+#   title              Weesp Kortemuiderweg 55
+#   description        
+
+#41
+dccd:2545
+#   title              Wageningen
+#   description        
+
+#42
+dccd:2546
+#   title              Susteren Salvatorplein
+#   description        
+
+#43
+dccd:2553
+#   title              Ashorst (HM-AS-92/93)
+#   description        
+
+#44
+dccd:2554
+##   title              Flevoland ZFL: NZ 108, NOP: R77
+##   description        
+
+#45
+dccd:2555
+##   title              Maastricht Hoogbrugstraat 18
+##   description        
+
+#46
+dccd:2556
+##   title              Opgedoken palen Cuyk
+##   description        
+
+#47
+dccd:2557
+##   title              Romeinse brug Susteren
+##   description        
+
+#48
+dccd:2558
+##   title              Schilderij "Cornelis Pietersz Hooft"
+##   description        
+
+#49
+dccd:3664
+##   title              Unnamed project
+##   description        
+
+#50
+dccd:3634
+##   title              dccd-webapp-testdata-minimal-v_2 at Gouda
+##   description        
+
+#51
+dccd:3673
+###   title              Unnamed project - halfchrono
+###   description        

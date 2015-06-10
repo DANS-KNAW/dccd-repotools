@@ -1,0 +1,27 @@
+####
+# Note that for each dccd:xxx the files must be in a directory dccd_xxx 
+# in the data directory. 
+####
+
+# First some tests on the DCCD-VM
+# id that should fail
+#wrong_id
+
+#### refactoring test uses newly 'corrupted' project
+#dccd:1873
+
+#
+# one of those new minimal with no uploaded files
+#dccd:1703
+#
+# with one uploaded heidelberg file, but ingested
+#dccd:1837
+#
+# with one uploaded heidelberg file, and removed the ORIGINAL_FILE_2 datastream with the fedoraAdmin web client
+#dccd:1813
+# one with a lot of files is the Utrecht Pauwstraat, also has different case in the filenames
+#dccd:1839
+
+# new test!
+dccd:1923
+dccd:1933

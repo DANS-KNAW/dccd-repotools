@@ -1,0 +1,35 @@
+# should fail!
+#wrong_id
+#
+
+##############
+# dendro production (public and live) server: http://dendro.dans.knaw.nl
+#
+#dccd:87
+# ZeewoldeNZ 66 W2
+
+#dccd:122
+# 1003A-
+
+#dccd:104
+# Het Vliegend hart
+
+#############
+# on dendro01 test server
+
+#dccd:165
+#  V1.2.1 Example Western Australian Museum
+
+#dccd:156
+#  V1.2.1 Example Western Australian Museum
+
+#############
+# on the VM
+# Batavia
+#dccd:801
+#
+# one of those new minimal 
+#dccd:1703
+#
+#dccd:1011
+# Test_Project_Kerk_II

@@ -1,0 +1,48 @@
+INFO 2011-03-29 13:11:28,422 [main] - Started application with context cfg/ingest-originalfiles-context.xml at 2011-03-29-13:11:27
+INFO 2011-03-29 13:11:28,427 [main] - 
+------------------------------------------------------------------------
+Executing task nl.knaw.dans.dccd.tools.task.IngestOriginalValueFilesTask
+------------------------------------------------------------------------
+INFO 2011-03-29 13:11:44,772 [main] - Home: dccd.home=null
+INFO 2011-03-29 13:11:49,594 [main] - A total of 1 project(s) will be processed.
+INFO 2011-03-29 13:11:49,612 [main] - Constructed new Fedora for baseURL http://localhost:8080/fedora
+INFO 2011-03-29 13:11:49,786 [main] - Instantiated a FedoraClient for http://localhost:8080/fedora
+DEBUG 2011-03-29 13:11:52,192 [main] - Processing project dccd:1923 with title: Kasteel Rechteren
+DEBUG 2011-03-29 13:11:52,192 [main] - Original files located at: dccd_1923
+DEBUG 2011-03-29 13:11:52,193 [main] - Number of uploaded value files: 5
+DEBUG 2011-03-29 13:11:52,193 [main] - Checking uploaded value file: dkr00061.fh
+DEBUG 2011-03-29 13:11:52,194 [main] - file was not ingested yet, try adding it...
+DEBUG 2011-03-29 13:11:52,239 [main] - Checking uploaded value file: dkr00071.fh
+WARN 2011-03-29 13:11:52,240 [main] - unit without a filename id: ORIGINAL_FILE_2, label: DKR00061.fh
+DEBUG 2011-03-29 13:11:52,241 [main] - file was not ingested yet, try adding it...
+DEBUG 2011-03-29 13:11:52,241 [main] - Checking uploaded value file: dkr00081.fh
+WARN 2011-03-29 13:11:52,242 [main] - unit without a filename id: ORIGINAL_FILE_2, label: DKR00061.fh
+WARN 2011-03-29 13:11:52,242 [main] - unit without a filename id: ORIGINAL_FILE_3, label: DKR00071.fh
+DEBUG 2011-03-29 13:11:52,242 [main] - file was not ingested yet, try adding it...
+DEBUG 2011-03-29 13:11:52,243 [main] - Checking uploaded value file: dkr00091.fh
+WARN 2011-03-29 13:11:52,243 [main] - unit without a filename id: ORIGINAL_FILE_2, label: DKR00061.fh
+WARN 2011-03-29 13:11:52,244 [main] - unit without a filename id: ORIGINAL_FILE_3, label: DKR00071.fh
+WARN 2011-03-29 13:11:52,244 [main] - unit without a filename id: ORIGINAL_FILE_4, label: DKR00081.fh
+DEBUG 2011-03-29 13:11:52,245 [main] - file was not ingested yet, try adding it...
+DEBUG 2011-03-29 13:11:52,245 [main] - Checking uploaded value file: dkr00101.fh
+WARN 2011-03-29 13:11:52,245 [main] - unit without a filename id: ORIGINAL_FILE_2, label: DKR00061.fh
+WARN 2011-03-29 13:11:52,246 [main] - unit without a filename id: ORIGINAL_FILE_3, label: DKR00071.fh
+WARN 2011-03-29 13:11:52,246 [main] - unit without a filename id: ORIGINAL_FILE_4, label: DKR00081.fh
+WARN 2011-03-29 13:11:52,246 [main] - unit without a filename id: ORIGINAL_FILE_5, label: DKR00091.fh
+DEBUG 2011-03-29 13:11:52,247 [main] - file was not ingested yet, try adding it...
+WARN 2011-03-29 13:11:53,769 [main] - CommonsHttpSolrServer: maximum Retries 3 > 1. Maximum recommended retries is 1.
+INFO 2011-03-29 13:11:53,958 [main] - Solr: Indexed 1 documents.
+INFO 2011-03-29 13:11:53,975 [main] - Solr: Indexed 1 documents.
+INFO 2011-03-29 13:11:53,975 [main] - Solr: commit
+INFO 2011-03-29 13:11:54,305 [main] - 
+	Processed 1 projects of 1 projects in [data/to_ingest-originalfilesfor.txt].
+	A total of 0 originalIds was not found.
+	A total of 0 projects were not found on the system.
+INFO 2011-03-29 13:11:54,305 [main] - Finished task nl.knaw.dans.dccd.tools.task.IngestOriginalValueFilesTask with 0 exception(s)
+INFO 2011-03-29 13:11:54,305 [main] - Closed report file: IngestOriginalValueFilesTask.csv
+INFO 2011-03-29 13:11:54,305 [main] - 
+------------------------------------------------------------------------
+Finished all tasks with 0 exceptions
+------------------------------------------------------------------------
+INFO 2011-03-29 13:11:54,307 [Thread-1] - Closing org.springframework.context.support.FileSystemXmlApplicationContext@13e58d4: display name [org.springframework.context.support.FileSystemXmlApplicationContext@13e58d4]; startup date [Tue Mar 29 13:11:27 CEST 2011]; root of context hierarchy
+INFO 2011-03-29 13:11:54,308 [Thread-1] - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3a835d: defining beans [log4jInitialization,taskRunner,processProjectTask]; root of factory hierarchy
